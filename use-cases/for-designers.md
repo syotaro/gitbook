@@ -1,3 +1,8 @@
+---
+title: "デザイナー向けだよ"
+layout: editorial
+---
+
 # 🎨 For Designers
 
 {% hint style="info" %}
@@ -19,3 +24,7 @@ Maecenas faucibus mollis interdum. Donec id elit non mi porta gravida at eget me
 
 {% endtab %}
 {% endtabs %}
+
+![](/2022-11-06-00-28-15.png)
+
+![](/2022-11-06-00-28-54.png)
