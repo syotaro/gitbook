@@ -1,5 +1,8 @@
 # 👋 Welcome to A Product
 
+![test](/assets/2022-11-05-23.35.35.png)
+![test](assets/2022-11-05-23.35.35.png)
+
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
 {% endhint %}
