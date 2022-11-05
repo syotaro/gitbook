@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # 👋 Welcome to A Product
 
 ![test](assets/2022-11-05-23.35.35.png) ![test](assets/2022-11-05-23.35.35.png)
@@ -32,11 +36,7 @@ Here are a couple of example overviews from products with really great docs:
 
 {% embed url="https://docs.google.com/presentation/d/1xUiInh4ojOV_S6gfSNkTa_aoejGfMUsTHsfAJbqa9iY/edit#slide=id.gec5b33a58d_1_0" %}
 
-|   |   |   |
-| - | - | - |
-| a |   |   |
-| a |   |   |
-| a |   |   |
+<table><thead><tr><th></th><th></th><th></th><th data-type="rating" data-max="5"></th></tr></thead><tbody><tr><td>a</td><td></td><td></td><td>3</td></tr><tr><td>a</td><td></td><td></td><td>4</td></tr><tr><td>a</td><td></td><td></td><td>5</td></tr></tbody></table>
 
 <details>
 
@@ -48,22 +48,21 @@ asdfasdfa
 
 <img src=".gitbook/assets/test2.svg" alt="" class="gitbook-drawing">
 
+&#x20;
+
 <img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+We've put together some helpful guides for you to get setup with our product quickly and easily
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+{% code lineNumbers="true" %}
+```javascript
+const animals = ['pigs', 'goats', 'sheep'];
+const count = animals.push('cows');
+console.log(count); // 4
+console.log(animals); // ['pigs', 'goats', 'sheep', 'cows']
+```
+{% endcode %}
 
 ![Alt text](file.drawio.svg)
