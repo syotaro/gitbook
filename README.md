@@ -46,7 +46,7 @@ asdfasdfa
 
 </details>
 
-<img src=".gitbook/assets/test.svg" alt="" class="gitbook-drawing">
+<img src=".gitbook/assets/test2.svg" alt="" class="gitbook-drawing">
 
 <img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
