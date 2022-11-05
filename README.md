@@ -1,7 +1,6 @@
 # 👋 Welcome to A Product
 
-![test](/assets/2022-11-05-23.35.35.png)
-![test](assets/2022-11-05-23.35.35.png)
+![test](assets/2022-11-05-23.35.35.png) ![test](assets/2022-11-05-23.35.35.png)
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
@@ -30,6 +29,24 @@ Here are a couple of example overviews from products with really great docs:
 {% content-ref url="overview/our-features.md" %}
 [our-features.md](overview/our-features.md)
 {% endcontent-ref %}
+
+{% embed url="https://docs.google.com/presentation/d/1xUiInh4ojOV_S6gfSNkTa_aoejGfMUsTHsfAJbqa9iY/edit#slide=id.gec5b33a58d_1_0" %}
+
+|   |   |   |
+| - | - | - |
+| a |   |   |
+| a |   |   |
+| a |   |   |
+
+<details>
+
+<summary>sdfasdfasdf</summary>
+
+asdfasdfa
+
+</details>
+
+<img src=".gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 ## Get Started
 
